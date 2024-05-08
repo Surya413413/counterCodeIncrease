@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bgconatiner {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-element {
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  border-width: 0px;
+  width: 100px;
+  height: 40px;
+}
+.span-class {
+  color: #c20a72;
+}
